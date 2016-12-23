@@ -2,10 +2,10 @@
 Included in this python file are my own implementations of: 
  - Binary Logistic Regression
  - Multinomial Logistic Regression
- - LDA
- - 2 Dimmensional LDA
- - PCA
- - FDA
+ - Linear Discriminant Analysis
+ - 2 Dimmensional Linear Discriminant Analysis
+ - Principal Component Analysis
+ - Fisher's Linear Discriminant Analysis
  - K-Nearest Neighbors
  - K-Means
  - Local K-Means
