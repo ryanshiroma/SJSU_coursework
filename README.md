@@ -1,5 +1,5 @@
 # my-machine-learning-library
-Included in this python file are implementations of: 
+Included in this python file are my own implementations of: 
  - Binary Logistic Regression
  - Multinomial Logistic Regression
  - LDA
